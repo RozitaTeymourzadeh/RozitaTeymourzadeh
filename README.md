@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RozitaTeymourzadeh
+- 👋 Hi, I’m @RoseTeim
 - 👀 I’m interested in developing software projects
 - 🌱 I’m currently active senior software developer
 - 💞️ I’m looking to collaborate on software development
